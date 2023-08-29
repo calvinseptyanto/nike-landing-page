@@ -53,7 +53,7 @@
 
 ## Preview
 
-![](![Untitled_design-removebg-preview](https://github.com/calvinseptyanto/nike-landing-page/assets/98633109/01483c5f-49bc-4938-9af5-f856c17948a9))
+![](https://github.com/calvinseptyanto/nike-landing-page/assets/98633109/01483c5f-49bc-4938-9af5-f856c17948a9)
 
 ![line]
 
