@@ -1,13 +1,13 @@
     Last updated on: 29th August 2023
 
 <div align=center>
-    <a href="">
+    <a href="https://nike-landing-ui-project.netlify.app/">
         <img width="200" src="https://github.com/warmachine028/nike/assets/75939390/13f332c1-d94b-4a53-88d3-6b06eb85ee34" alt="Nike">
     </a>
     <p style="font-family: montserrat, calibri; font-size:12pt; font-style:italic"> Just Do it! </p>
 </div>
 
-# [Nike]()
+# [Nike](https://nike-landing-ui-project.netlify.app/)
 
 ![line]
 
@@ -63,10 +63,6 @@
 - See [LICENSE]
 
 **Calvin Septyanto**
-
-![line]
-
-## Thank you, everyone 💚
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
 [License]: https://github.com/calvinseptyanto/nike-landing-page/blob/main/LICENSE
