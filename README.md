@@ -53,7 +53,7 @@
 
 ## Preview
 
-![](https://github.com/warmachine028/nike/assets/75939390/340f4f1b-fe6d-4480-8a7e-59b9994afaff)
+![](![removal ai _6b3549b6-1ae7-4149-a97d-4fbb8f3756e6-untitled-design](https://github.com/calvinseptyanto/nike-landing-page/assets/98633109/12db74b3-8583-4c3d-ad98-57d4d3e6b25a))
 
 ![line]
 
