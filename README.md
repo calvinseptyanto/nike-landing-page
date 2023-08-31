@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Developement](#developement)
+- [Development](#development)
 - [Tech Stack Used](#tech-stack-used)
 - [Preview](#preview)
 - [License](#license)
@@ -30,7 +30,7 @@
 
 ![line]
 
-## Developement
+## Development
 
 ```sh
 > npm install
